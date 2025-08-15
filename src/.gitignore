@@ -1,0 +1,4 @@
+drone-vlm/
+models/
+drone_vlm_v2.py 
+.env
